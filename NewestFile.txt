@@ -1,13 +1,13 @@
+	asdf
+	asdf
+	kasdf
 
-<!DOCTYPE html>
-<html>
-    <head>
         <meta charset="utf-8">
         <title></title>
+    </body>
     </head>
     <body>
-	kasdf
-	asdf
-	asdf
-    </body>
+    <head>
+<!DOCTYPE html>
 </html>
+<html>
